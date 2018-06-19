@@ -23,3 +23,22 @@ Or you can use this CDN link to run the tests in any environment you like: https
 Once you're done, submit the URL to your working project with all its tests passing.
 
 - Remember to use the Read-Search-Ask method if you get stuck.
+
+
+## edit
+
+<main>
+  
+  <title>Dr. Norman Borlaug</title>
+  
+  <div >
+  
+  < id = "img-div" >
+  < id ="img" id="img-caption">
+  < id ="tribute-info">
+  < id ="tribute-link" target="_blank">
+  
+  </div>
+  
+  </main>
+  
