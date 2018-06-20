@@ -34,8 +34,11 @@ Once you're done, submit the URL to your working project with all its tests pass
   <div >
   
   < id = "img-div" >
+  
   < id ="img" id="img-caption">
+  
   < id ="tribute-info">
+  
   < id ="tribute-link" target="_blank">
   
   </div>
