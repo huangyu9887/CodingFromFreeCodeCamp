@@ -31,17 +31,19 @@ Once you're done, submit the URL to your working project with all its tests pass
   
   <title>Dr. Norman Borlaug</title>
   
-  <div >
+  <div>The man who saved 1 billion lives</div>
   
-  < id = "img-div" >
+  <div id = "img-div" >
   
-  < id ="img" id="img-caption">
+  <img id ="img">
   
-  < id ="tribute-info">
-  
-  < id ="tribute-link" target="_blank">
+  <div id="img-Caption"> Dr. Norman Borlaug, second from left, trains biologists in Mexico on how to increase wheat yields - part of his life-long war on hunger. </div>
   
   </div>
+  
+  <div id ="tribute-info"> </div>
+  
+  <a id ="tribute-link" href="https://en.wikipedia.org/wiki/Norman_Borlaug" target="_blank"> 
   
   </main>
   
